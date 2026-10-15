@@ -9,7 +9,7 @@ Zenodo DOI:     10.5281/zenodo.XXXXXXX
 License:        CC-BY 4.0 (for Data, see Acknowledgements below)
 
 
-1. OVERVIEW OF THE METHODOLOGICAL FRAMEWORK
+I OVERVIEW OF THE METHODOLOGICAL FRAMEWORK
 --------------------------------------------------------------------------------
 Long-term ecological monitoring schemes provide vital baselines for quantifying 
 climate-induced phenological shifts, yet they frequently suffer from 
@@ -45,7 +45,7 @@ two core analytical stages:
      timing from population abundance fluctuations.
 
 
-2. REPOSITORY CONTENTS
+II REPOSITORY CONTENTS
 --------------------------------------------------------------------------------
 The repository is streamlined into a single data archive and a single 
 self-contained workflow script:
@@ -55,7 +55,7 @@ self-contained workflow script:
   - README.txt                       : Repository documentation and usage guide
 
 
-3. DESCRIPTION OF THE DATA ARCHIVE (Phenology_Pipeline_Data.RData)
+III DESCRIPTION OF THE DATA ARCHIVE (Phenology_Pipeline_Data.RData)
 --------------------------------------------------------------------------------
 Loading "Phenology_Pipeline_Data.RData" in R populates four objects in the 
 global environment:
@@ -101,7 +101,7 @@ global environment:
      monitoring sites.
 
 
-4. SYSTEM REQUIREMENTS & QUICK START
+IV SYSTEM REQUIREMENTS & QUICK START
 --------------------------------------------------------------------------------
 Software & Packages:
 The workflow was developed and tested in R (version 4.6.1) and requires the 
@@ -128,7 +128,7 @@ Outputs Produced in Working Directory:
   5. Figure_5_Calathus_micropterus_Plasticity.png (Reproduces Figure 5)
 
 
-5. ADAPTING THE WORKFLOW TO CUSTOM DATASETS
+V ADAPTING THE WORKFLOW TO CUSTOM DATASETS
 --------------------------------------------------------------------------------
 To apply run_phenology_workflow() to other taxonomic groups or monitoring 
 schemes (e.g., herbarium records, bird ringing campaigns, pollinator transects, 
@@ -152,7 +152,7 @@ or plankton time series):
      site or geographically restricted studies (Manuscript Section 2.5).
 
 
-6. ACKNOWLEDGEMENTS, DATA SOURCES & LICENSING
+VI ACKNOWLEDGEMENTS, DATA SOURCES & LICENSING
 --------------------------------------------------------------------------------
   - UK Environmental Change Network (ECN): Ground beetle pitfall trapping data 
     were provided by the UK ECN and are distributed under the UK Open Government 
