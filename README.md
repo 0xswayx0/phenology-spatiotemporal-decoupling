@@ -1,4 +1,3 @@
-================================================================================
 A STATISTICAL FRAMEWORK FOR DECOUPLING SPATIAL AND ENVIRONMENTAL DRIVERS OF 
 PHENOLOGY FROM PATCHY HISTORICAL DATASETS
 ================================================================================
