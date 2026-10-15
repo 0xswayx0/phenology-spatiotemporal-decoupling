@@ -174,7 +174,7 @@ VI ACKNOWLEDGEMENTS, DATA SOURCES & LICENSING
     National Meteorological Library and Archive).
 
   - AI Assistance Disclosure: During the development of this repository, 
-    Claude 3.5 Sonnet, Gemini 3.1 Pro, and Gemini 4 Argon were used to assist 
+    Claude 5.5 Sonnet and Gemini 4 Argon were used to assist 
     with R-code optimization and documentation formatting. All scripts and 
     outputs were verified and validated by the authors.
 
