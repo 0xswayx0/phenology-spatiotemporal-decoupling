@@ -175,4 +175,3 @@ or plankton time series):
 
   - Funding: This work was supported by the Open Access Publication Fund of 
     Leuphana University Lüneburg.
-================================================================================
