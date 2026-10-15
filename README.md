@@ -173,5 +173,10 @@ VI ACKNOWLEDGEMENTS, DATA SOURCES & LICENSING
     thermal indices were provided by the Met Office, UK (© Crown Copyright, 
     National Meteorological Library and Archive).
 
+  - AI Assistance Disclosure: During the development of this repository, 
+    Claude 3.5 Sonnet, Gemini 3.1 Pro, and Gemini 4 Argon were used to assist 
+    with R-code optimization and documentation formatting. All scripts and 
+    outputs were verified and validated by the authors.
+
   - Funding: This work was supported by the Open Access Publication Fund of 
     Leuphana University Lüneburg.
