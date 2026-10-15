@@ -4,6 +4,7 @@ PHENOLOGY FROM PATCHY HISTORICAL DATASETS
 
 Authors: 	Swantje Grabener, Claudia Drees, Michael Staab, Wiebke Schuett, 
 		Pascale Zumstein, Thorsten Assmann
+
 Target Journal: Methods in Ecology and Evolution (Workflow Article)
 Zenodo DOI:     10.5281/zenodo.XXXXXXX
 License:        CC-BY 4.0 (for Data, see Acknowledgements below)
